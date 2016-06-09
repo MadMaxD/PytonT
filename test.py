@@ -2,8 +2,8 @@ import tkinter
 import random
 
 # constatint
-WIDTH=1280
-HEIGHT=720
+WIDTH=1920
+HEIGHT=1080
 BG_COLOR="WHITE"
 BAD_COLOR="red"
 COLORS=['aqua','pink','green','yellow','gold',BAD_COLOR]
